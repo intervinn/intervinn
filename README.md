@@ -1,5 +1,6 @@
 ### Hi there 👋
-## I am Intervinn, I am beginner Python programmer. Currently I am trying to learn Java. Just for my own purpose I have a small knowledge on HTML/CSS.
+## I am Intervinn, I am beginner russian Python programmer. Currently I am trying to learn Java. Just for my own purpose I have a small knowledge on HTML/CSS.
+#### I am an absolute noob at using such platforms like github so you will have to do a lot of facepalming when working with me.
 
 <!--
 **intervinn/intervinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
