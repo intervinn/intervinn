@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I am Intervinn, I am beginner Python programmer. Currently I am trying to learn Java. Just for my own purpose I have a small knowledge on HTML/CSS.
 
 <!--
 **intervinn/intervinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
