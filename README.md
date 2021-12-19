@@ -1,5 +1,4 @@
-# hello there
-### Hi, I am Intervinn. Sometimes I enjoy writing some stuff in Python, HTML, and CSS. I am not expert in what I do, the important thing for me is that I enjoy it.
+
 ![](https://github.com/intervinn/intervinn/blob/main/henry.jpg)
 
 
