@@ -1,5 +1,8 @@
-<details><summary>cvbjklihgvcvjk mjhgtre</summary>
+<details><summary>hello</summary>
   <p>
-    hjgkkpojihugyftdrfyguijokpl[;[lpkojihuygtfrdestfyguhijokplkomjnbhvgcfdrse6t7y8ui
+    i am a beginner programmer who is quite ok at python, decent in javascript/typescript and kinda knows html/css
+    
+    used to write discord bots but at the moment i enjoy web development (learning react and flask)
+    
   </p>
 </details>
