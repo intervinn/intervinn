@@ -1,5 +1,4 @@
-Hi, I am Intervinn, a 14 year old programmer from Russia.
-Go, Python, C++, Lua, and TypeScript is love, Rust should burn in hell.
+hi, i am intervinn, a 14 year old programmer from russia
 
 <img src="https://github-readme-stats.vercel.app/api?username=intervinn&&show_icons=true&theme=react&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intervinn&theme=react&langs_count=20&hide=html,css,makefile,shell)](https://github.com/intervinn">
