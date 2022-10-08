@@ -3,7 +3,7 @@ hi, i am intervinn, a 14 year old programmer from russia </br>
 i like making simple full-stack web apps, bots and i just write anything i need or want to write </br>
 i program in python, go, ts and lua (atm trying to improve in cpp, c, go) </br>
 i am also wasting my pocket money to write cpp on arduino </br>
-i dont use node.js until thats very needed, i know js/ts just for frontend </br>
+i dont use node.js for server-side things </br>
 
 
 <a href="https://intervinn.github.io">my website</a>
