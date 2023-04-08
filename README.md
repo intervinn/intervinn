@@ -1,11 +1,9 @@
 <div align="center">
   <h1>Hello</h1>
   I am intervinn, a 14 year old programmer from russia </br>
-
-i like making simple full-stack web apps, bots and i just write anything i need or want to write </br>
-i program in python, go, ts and lua (atm trying to improve in cpp, c, go) </br>
-i am also wasting my pocket money to write cpp on arduino </br>
-atm i prefer writing server-side programs in go and typescript
+  
+  i like programming in go, typescript, python and c/c++
+  anything except rust and c# is ok
 
 
 <h2> <a href="https://intervinn.github.io">my website</a> </h2>
