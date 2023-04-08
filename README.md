@@ -2,7 +2,7 @@
   <h1>Hello</h1>
   I am intervinn, a 14 year old programmer from russia </br>
   
-  i like programming in go, typescript, python and c/c++
+  i like programming in go, typescript, python and c/c++ </br>
   anything except rust and c# is ok
 
 
