@@ -1,6 +1,6 @@
 <div align="center">
 <h3> Hey there, I am Intervinn </h3>
-I am just an average teen, suffering from anxiety and being afraid of future. I am a fan of software engineering and computer science overall. <br/>
+I am just an average teen. I am a fan of software engineering and computer science overall. <br/>
 
 Whenever I get burned out (happens quite often lately), I just play a lot of games as computer is usually the only thing to entertain me. </br>
   
