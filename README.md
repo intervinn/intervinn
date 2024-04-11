@@ -1,4 +1,5 @@
 <div align="center">
+<img src="banner.jpg" alt="theres imgage" />
 <h3> Hey there, my name is Nikita, better known as Intervinn </h3>
 Well, every time I get to look at the messages I write here again, it feels so cringe that I want to rewrite it from scratch. </br>
 So, I am a software engineering enthusiast mostly interested in spheres of web applications and system software. <br/>
