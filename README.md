@@ -4,5 +4,6 @@ besides programming i also show interest in drawing, that's pretty much about it
 i really feel like collaborating and contributing on this website, but i guess that isnt so easy.
 
 ## techs
+only the ones i feel proficient in <br/><br/>
 ![Techs](https://skillicons.dev/icons?i=js,ts,tailwind,nextjs,supabase,vscode,arch,go,mongodb,postgres&perline=10)
 
