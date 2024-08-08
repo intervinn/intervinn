@@ -5,4 +5,4 @@ i really feel like collaborating and contributing on this website, but i guess t
 
 ## techs
 there are many other i know, but here ill list the ones i usually prefer to work with <br/><br/>
-![Techs](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,luau,nextjs,tailwind,mongodb,postgres,arch,gentoo,vscode&perline=11)
+![Techs](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,luau,nextjs,tailwind,mongodb,postgres,arch,vscode&perline=11)
