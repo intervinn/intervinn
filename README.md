@@ -1,8 +1,8 @@
-## hi there
-my username is intervinn (or int), a lazy 16 year old russian programmer. <br/>
-besides programming i also show interest in drawing, that's pretty much about it lol. <br/>
-i really feel like collaborating and contributing on this website, but i guess that isnt so easy.
+## welcome aboard
+my username is intervinn (or int, typevs), a lazy 16 year old russian programmer. <br/>
+i am kind of a digital artist, a gamer, and even a server manager! ([my russian "smp"](https://waltercraft.vercel.app)) <br/>
+here i publish the code that im proud to show to others, and also kind of trying to contribute to others projects
 
 ## techs
-there are many other i know, but here ill list the ones i usually prefer to work with <br/><br/>
+i know quite a plenty of techs, but here ill list like, the ones im most proficient in <br/><br/>
 ![Techs](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go,luau,nextjs,tailwind,mongodb,postgres,arch,vscode&perline=11)
